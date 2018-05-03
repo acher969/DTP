@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>DTP-manager-web</artifactId>
+    <artifactId>DTP-manager-controller</artifactId>
     <packaging>war</packaging>
 
     <!-- 依赖管理 -->

@@ -16,8 +16,8 @@
     <modules>
         <module>DTP-manager-pojo</module>
         <module>DTP-manager-service</module>
-        <module>DTP-manager-web</module>
         <module>DTP-manager-mapper</module>
+        <module>DTP-manager-controller</module>
     </modules>
 
 

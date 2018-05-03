@@ -11,4 +11,7 @@
 
     <artifactId>DTP-manager-pojo</artifactId>
 
+            <dependencies>
+
+            </dependencies>
 </project>
